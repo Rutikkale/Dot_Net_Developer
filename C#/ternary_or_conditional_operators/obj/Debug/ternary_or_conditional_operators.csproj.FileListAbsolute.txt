@@ -1,0 +1,7 @@
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\ternary_or_conditional_operators\bin\Debug\ternary_or_conditional_operators.exe.config
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\ternary_or_conditional_operators\bin\Debug\ternary_or_conditional_operators.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\ternary_or_conditional_operators\bin\Debug\ternary_or_conditional_operators.pdb
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\ternary_or_conditional_operators\obj\Debug\ternary_or_conditional_operators.csproj.AssemblyReference.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\ternary_or_conditional_operators\obj\Debug\ternary_or_conditional_operators.csproj.CoreCompileInputs.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\ternary_or_conditional_operators\obj\Debug\ternary_or_conditional_operators.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\ternary_or_conditional_operators\obj\Debug\ternary_or_conditional_operators.pdb
