@@ -45,7 +45,7 @@ namespace Logical_Operators
             //Console.ReadLine();
 
             //o/p: False
-
+            //Real Time Example: login form id && password
 
 
             // OR logical operators
@@ -83,6 +83,7 @@ namespace Logical_Operators
             Console.ReadLine();
            
             //o/p: False
+            // RealTime Example: Aadhar Card Or Pan Card or Driving Lincen
 
          
 

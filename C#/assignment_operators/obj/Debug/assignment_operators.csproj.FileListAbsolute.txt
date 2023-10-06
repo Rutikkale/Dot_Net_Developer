@@ -1,0 +1,7 @@
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\assignment_operators\bin\Debug\assignment_operators.exe.config
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\assignment_operators\bin\Debug\assignment_operators.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\assignment_operators\bin\Debug\assignment_operators.pdb
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\assignment_operators\obj\Debug\assignment_operators.csproj.AssemblyReference.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\assignment_operators\obj\Debug\assignment_operators.csproj.CoreCompileInputs.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\assignment_operators\obj\Debug\assignment_operators.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\assignment_operators\obj\Debug\assignment_operators.pdb
