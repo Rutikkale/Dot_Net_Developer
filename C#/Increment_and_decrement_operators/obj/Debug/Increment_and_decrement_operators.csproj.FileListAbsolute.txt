@@ -1,0 +1,7 @@
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Increment_and_decrement_operators\bin\Debug\Increment_and_decrement_operators.exe.config
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Increment_and_decrement_operators\bin\Debug\Increment_and_decrement_operators.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Increment_and_decrement_operators\bin\Debug\Increment_and_decrement_operators.pdb
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Increment_and_decrement_operators\obj\Debug\Increment_and_decrement_operators.csproj.AssemblyReference.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Increment_and_decrement_operators\obj\Debug\Increment_and_decrement_operators.csproj.CoreCompileInputs.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Increment_and_decrement_operators\obj\Debug\Increment_and_decrement_operators.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Increment_and_decrement_operators\obj\Debug\Increment_and_decrement_operators.pdb
