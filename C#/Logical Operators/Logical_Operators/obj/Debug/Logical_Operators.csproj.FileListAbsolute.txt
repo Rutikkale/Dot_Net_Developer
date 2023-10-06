@@ -1,0 +1,7 @@
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Logical Operators\Logical_Operators\bin\Debug\Logical_Operators.exe.config
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Logical Operators\Logical_Operators\bin\Debug\Logical_Operators.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Logical Operators\Logical_Operators\bin\Debug\Logical_Operators.pdb
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Logical Operators\Logical_Operators\obj\Debug\Logical_Operators.csproj.AssemblyReference.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Logical Operators\Logical_Operators\obj\Debug\Logical_Operators.csproj.CoreCompileInputs.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Logical Operators\Logical_Operators\obj\Debug\Logical_Operators.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Logical Operators\Logical_Operators\obj\Debug\Logical_Operators.pdb
