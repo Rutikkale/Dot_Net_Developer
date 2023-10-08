@@ -1,0 +1,7 @@
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Precedence_of_operators\bin\Debug\Precedence_of_operators.exe.config
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Precedence_of_operators\bin\Debug\Precedence_of_operators.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Precedence_of_operators\bin\Debug\Precedence_of_operators.pdb
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Precedence_of_operators\obj\Debug\Precedence_of_operators.csproj.AssemblyReference.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Precedence_of_operators\obj\Debug\Precedence_of_operators.csproj.CoreCompileInputs.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Precedence_of_operators\obj\Debug\Precedence_of_operators.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Precedence_of_operators\obj\Debug\Precedence_of_operators.pdb
