@@ -1,0 +1,7 @@
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Selection_construct_IF_else\bin\Debug\Selection_construct_IF_else.exe.config
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Selection_construct_IF_else\bin\Debug\Selection_construct_IF_else.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Selection_construct_IF_else\bin\Debug\Selection_construct_IF_else.pdb
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Selection_construct_IF_else\obj\Debug\Selection_construct_IF_else.csproj.AssemblyReference.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Selection_construct_IF_else\obj\Debug\Selection_construct_IF_else.csproj.CoreCompileInputs.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Selection_construct_IF_else\obj\Debug\Selection_construct_IF_else.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Selection_construct_IF_else\obj\Debug\Selection_construct_IF_else.pdb

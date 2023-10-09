@@ -21,7 +21,7 @@ namespace Precedence_of_operators
             Console.ReadLine();
             
             // highest level-- (),/,*,+,-
-            // BODMAS Rules6
+            // BODMAS Rules
 
 
             //o/p: -6
