@@ -1,0 +1,7 @@
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\nested_if_else\bin\Debug\nested_if_else.exe.config
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\nested_if_else\bin\Debug\nested_if_else.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\nested_if_else\bin\Debug\nested_if_else.pdb
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\nested_if_else\obj\Debug\nested_if_else.csproj.AssemblyReference.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\nested_if_else\obj\Debug\nested_if_else.csproj.CoreCompileInputs.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\nested_if_else\obj\Debug\nested_if_else.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\nested_if_else\obj\Debug\nested_if_else.pdb
