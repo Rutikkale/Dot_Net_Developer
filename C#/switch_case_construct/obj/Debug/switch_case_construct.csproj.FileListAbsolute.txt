@@ -1,0 +1,7 @@
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\switch_case_construct\bin\Debug\switch_case_construct.exe.config
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\switch_case_construct\bin\Debug\switch_case_construct.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\switch_case_construct\bin\Debug\switch_case_construct.pdb
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\switch_case_construct\obj\Debug\switch_case_construct.csproj.AssemblyReference.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\switch_case_construct\obj\Debug\switch_case_construct.csproj.CoreCompileInputs.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\switch_case_construct\obj\Debug\switch_case_construct.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\switch_case_construct\obj\Debug\switch_case_construct.pdb
