@@ -1,0 +1,7 @@
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\nested_switch_case_contruct\obj\Debug\nested_switch_case_contruct.csproj.AssemblyReference.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\nested_switch_case_contruct\obj\Debug\nested_switch_case_contruct.csproj.CoreCompileInputs.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\nested_switch_case_contruct\bin\Debug\nested_switch_case_contruct.exe.config
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\nested_switch_case_contruct\bin\Debug\nested_switch_case_contruct.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\nested_switch_case_contruct\bin\Debug\nested_switch_case_contruct.pdb
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\nested_switch_case_contruct\obj\Debug\nested_switch_case_contruct.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\nested_switch_case_contruct\obj\Debug\nested_switch_case_contruct.pdb
