@@ -1,0 +1,7 @@
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\while_loop\bin\Debug\while_loop.exe.config
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\while_loop\bin\Debug\while_loop.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\while_loop\bin\Debug\while_loop.pdb
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\while_loop\obj\Debug\while_loop.csproj.AssemblyReference.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\while_loop\obj\Debug\while_loop.csproj.CoreCompileInputs.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\while_loop\obj\Debug\while_loop.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\while_loop\obj\Debug\while_loop.pdb
