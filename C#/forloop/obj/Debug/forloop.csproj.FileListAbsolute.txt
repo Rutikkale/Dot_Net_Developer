@@ -1,0 +1,7 @@
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\forloop\bin\Debug\forloop.exe.config
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\forloop\bin\Debug\forloop.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\forloop\bin\Debug\forloop.pdb
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\forloop\obj\Debug\forloop.csproj.AssemblyReference.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\forloop\obj\Debug\forloop.csproj.CoreCompileInputs.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\forloop\obj\Debug\forloop.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\forloop\obj\Debug\forloop.pdb
