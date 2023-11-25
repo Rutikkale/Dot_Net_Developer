@@ -1,0 +1,7 @@
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Nested For Loop\bin\Debug\Nested For Loop.exe.config
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Nested For Loop\bin\Debug\Nested For Loop.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Nested For Loop\bin\Debug\Nested For Loop.pdb
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Nested For Loop\obj\Debug\Nested For Loop.csproj.AssemblyReference.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Nested For Loop\obj\Debug\Nested For Loop.csproj.CoreCompileInputs.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Nested For Loop\obj\Debug\Nested For Loop.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Nested For Loop\obj\Debug\Nested For Loop.pdb
