@@ -1,0 +1,7 @@
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C# OOP ( Object Oriented Programming )\Classes_And_Objects\bin\Debug\Classes_And_Objects.exe.config
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C# OOP ( Object Oriented Programming )\Classes_And_Objects\bin\Debug\Classes_And_Objects.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C# OOP ( Object Oriented Programming )\Classes_And_Objects\bin\Debug\Classes_And_Objects.pdb
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C# OOP ( Object Oriented Programming )\Classes_And_Objects\obj\Debug\Classes_And_Objects.csproj.AssemblyReference.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C# OOP ( Object Oriented Programming )\Classes_And_Objects\obj\Debug\Classes_And_Objects.csproj.CoreCompileInputs.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C# OOP ( Object Oriented Programming )\Classes_And_Objects\obj\Debug\Classes_And_Objects.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C# OOP ( Object Oriented Programming )\Classes_And_Objects\obj\Debug\Classes_And_Objects.pdb
