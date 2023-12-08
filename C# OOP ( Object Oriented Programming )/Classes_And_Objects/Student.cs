@@ -33,32 +33,32 @@ namespace Classes_And_Objects
         }
         static void Main(string[] args)
         {
-            //Console.WriteLine("Enter Your Rollno:");
-            //int roll = int.Parse(Console.ReadLine());
-            //Console.WriteLine("Enter your Name:");
-            //string name = Console.ReadLine();
-            //Console.WriteLine("Enter Your Age:");
-            //int age = int.Parse(Console.ReadLine());
-            //Console.WriteLine("Enter Your Class");
-            //int standard = int.Parse(Console.ReadLine());
+            Console.WriteLine("Enter Your Rollno:");
+            int roll = int.Parse(Console.ReadLine());
+            Console.WriteLine("Enter your Name:");
+            string name = Console.ReadLine();
+            Console.WriteLine("Enter Your Age:");
+            int age = int.Parse(Console.ReadLine());
+            Console.WriteLine("Enter Your Class");
+            int standard = int.Parse(Console.ReadLine());
 
             ////Object is an instance of a class
 
-            //Student Rutik = new Student();
-            //Rutik.setStudent(roll,name,age,standard);
-            //Rutik.getStudent();
-
-           
-
-
             Student Rutik = new Student();
-            Rutik.setStudent(21,"Rutik Kale",22,12);
+            Rutik.setStudent(roll, name, age, standard);
             Rutik.getStudent();
-            Console.WriteLine("- - - - - - - - -");
 
-            Student Arpit = new Student();
-            Arpit.setStudent(22, "Arpit Kale",18, 11);
-            Arpit.getStudent();
+
+
+
+            //Student Rutik = new Student();
+            //Rutik.setStudent(21,"Rutik Kale",22,12);
+            //Rutik.getStudent();
+            //Console.WriteLine("- - - - - - - - -");
+
+            //Student Arpit = new Student();
+            //Arpit.setStudent(22, "Arpit Kale",18, 11);
+            //Arpit.getStudent();
 
             Console.ReadLine();
         }
