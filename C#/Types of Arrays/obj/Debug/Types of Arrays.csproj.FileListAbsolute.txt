@@ -1,0 +1,7 @@
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Types of Arrays\bin\Debug\Types of Arrays.exe.config
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Types of Arrays\bin\Debug\Types of Arrays.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Types of Arrays\bin\Debug\Types of Arrays.pdb
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Types of Arrays\obj\Debug\Types of Arrays.csproj.AssemblyReference.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Types of Arrays\obj\Debug\Types of Arrays.csproj.CoreCompileInputs.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Types of Arrays\obj\Debug\Types of Arrays.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Types of Arrays\obj\Debug\Types of Arrays.pdb
