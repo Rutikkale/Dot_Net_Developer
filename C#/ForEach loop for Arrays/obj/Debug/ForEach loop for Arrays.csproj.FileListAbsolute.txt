@@ -1,0 +1,7 @@
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\ForEach loop for Arrays\bin\Debug\ForEach loop for Arrays.exe.config
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\ForEach loop for Arrays\bin\Debug\ForEach loop for Arrays.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\ForEach loop for Arrays\bin\Debug\ForEach loop for Arrays.pdb
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\ForEach loop for Arrays\obj\Debug\ForEach loop for Arrays.csproj.AssemblyReference.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\ForEach loop for Arrays\obj\Debug\ForEach loop for Arrays.csproj.CoreCompileInputs.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\ForEach loop for Arrays\obj\Debug\ForEach loop for Arrays.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\ForEach loop for Arrays\obj\Debug\ForEach loop for Arrays.pdb
