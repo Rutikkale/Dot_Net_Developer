@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Initialing or creating array with user input", "Initialing or creating array with user input.csproj", "{DF356AA9-6477-4301-809F-798B4A552318}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF356AA9-6477-4301-809F-798B4A552318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF356AA9-6477-4301-809F-798B4A552318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF356AA9-6477-4301-809F-798B4A552318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF356AA9-6477-4301-809F-798B4A552318}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F9897C0-AB58-41C3-A4D6-A4ABBCD694EE}
+	EndGlobalSection
+EndGlobal

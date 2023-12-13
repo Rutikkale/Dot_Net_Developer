@@ -1,0 +1,7 @@
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Initialing or creating array with user input\bin\Debug\Initialing or creating array with user input.exe.config
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Initialing or creating array with user input\bin\Debug\Initialing or creating array with user input.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Initialing or creating array with user input\bin\Debug\Initialing or creating array with user input.pdb
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Initialing or creating array with user input\obj\Debug\Initialing or creating array with user input.csproj.AssemblyReference.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Initialing or creating array with user input\obj\Debug\Initialing or creating array with user input.csproj.CoreCompileInputs.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Initialing or creating array with user input\obj\Debug\Initialing or creating array with user input.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Initialing or creating array with user input\obj\Debug\Initialing or creating array with user input.pdb
