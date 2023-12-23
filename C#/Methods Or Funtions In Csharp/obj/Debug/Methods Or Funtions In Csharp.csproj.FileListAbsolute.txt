@@ -1,0 +1,7 @@
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Methods Or Funtions In Csharp\bin\Debug\Methods Or Funtions In Csharp.exe.config
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Methods Or Funtions In Csharp\bin\Debug\Methods Or Funtions In Csharp.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Methods Or Funtions In Csharp\bin\Debug\Methods Or Funtions In Csharp.pdb
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Methods Or Funtions In Csharp\obj\Debug\Methods Or Funtions In Csharp.csproj.AssemblyReference.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Methods Or Funtions In Csharp\obj\Debug\Methods Or Funtions In Csharp.csproj.CoreCompileInputs.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Methods Or Funtions In Csharp\obj\Debug\Methods Or Funtions In Csharp.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Methods Or Funtions In Csharp\obj\Debug\Methods Or Funtions In Csharp.pdb
