@@ -1,0 +1,7 @@
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Creating Calculator Application\bin\Debug\Creating Calculator Application.exe.config
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Creating Calculator Application\bin\Debug\Creating Calculator Application.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Creating Calculator Application\bin\Debug\Creating Calculator Application.pdb
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Creating Calculator Application\obj\Debug\Creating Calculator Application.csproj.AssemblyReference.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Creating Calculator Application\obj\Debug\Creating Calculator Application.csproj.CoreCompileInputs.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Creating Calculator Application\obj\Debug\Creating Calculator Application.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Creating Calculator Application\obj\Debug\Creating Calculator Application.pdb
