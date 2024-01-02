@@ -1,0 +1,7 @@
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Value Type Reference Type\bin\Debug\Value Type Reference Type.exe.config
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Value Type Reference Type\bin\Debug\Value Type Reference Type.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Value Type Reference Type\bin\Debug\Value Type Reference Type.pdb
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Value Type Reference Type\obj\Debug\Value Type Reference Type.csproj.AssemblyReference.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Value Type Reference Type\obj\Debug\Value Type Reference Type.csproj.CoreCompileInputs.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Value Type Reference Type\obj\Debug\Value Type Reference Type.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Value Type Reference Type\obj\Debug\Value Type Reference Type.pdb
