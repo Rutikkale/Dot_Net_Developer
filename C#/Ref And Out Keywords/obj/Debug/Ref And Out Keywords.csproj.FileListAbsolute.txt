@@ -1,0 +1,7 @@
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Ref And Out Keywords\bin\Debug\Ref And Out Keywords.exe.config
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Ref And Out Keywords\bin\Debug\Ref And Out Keywords.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Ref And Out Keywords\bin\Debug\Ref And Out Keywords.pdb
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Ref And Out Keywords\obj\Debug\Ref And Out Keywords.csproj.AssemblyReference.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Ref And Out Keywords\obj\Debug\Ref And Out Keywords.csproj.CoreCompileInputs.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Ref And Out Keywords\obj\Debug\Ref And Out Keywords.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Ref And Out Keywords\obj\Debug\Ref And Out Keywords.pdb
