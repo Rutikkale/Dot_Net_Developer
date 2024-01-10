@@ -1,0 +1,7 @@
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Var and Dynamic keyword\bin\Debug\Var and Dynamic keyword.exe.config
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Var and Dynamic keyword\bin\Debug\Var and Dynamic keyword.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Var and Dynamic keyword\bin\Debug\Var and Dynamic keyword.pdb
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Var and Dynamic keyword\obj\Debug\Var and Dynamic keyword.csproj.AssemblyReference.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Var and Dynamic keyword\obj\Debug\Var and Dynamic keyword.csproj.CoreCompileInputs.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Var and Dynamic keyword\obj\Debug\Var and Dynamic keyword.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Var and Dynamic keyword\obj\Debug\Var and Dynamic keyword.pdb
