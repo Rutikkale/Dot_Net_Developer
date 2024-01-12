@@ -1,0 +1,7 @@
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Static and Instance Member\bin\Debug\Static and Instance Member.exe.config
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Static and Instance Member\bin\Debug\Static and Instance Member.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Static and Instance Member\bin\Debug\Static and Instance Member.pdb
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Static and Instance Member\obj\Debug\Static and Instance Member.csproj.AssemblyReference.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Static and Instance Member\obj\Debug\Static and Instance Member.csproj.CoreCompileInputs.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Static and Instance Member\obj\Debug\Static and Instance Member.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Static and Instance Member\obj\Debug\Static and Instance Member.pdb
