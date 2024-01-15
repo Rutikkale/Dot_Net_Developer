@@ -17,9 +17,21 @@ select*from student
 
 --inserting records
 insert into student values(1,'Rutik','Kisanrao Kale',21,'10th',9028600982)
-insert into student values(1,'Arpit','Kisanrao Kale',16,'9th',9028600983)
-insert into student values(1,'Harshal','Salvatkar',15,'8th',9028600984)
-insert into student values(1,'Darshan','Thakare',14,'7th',9028600981)
+insert into student values(2,'Arpit','Kisanrao Kale',16,'9th',9028600983)
+insert into student values(3,'Harshal','Salvatkar',15,'8th',9028600984)
+insert into student values(4,'Darshan','Thakare',14,'7th',9028600981)
 
 --inserting records another mathod
 insert into student(student_Id,student_Name)values(5,'Rupesh')
+
+--Delete rows
+delete from student where student_Name ='Rupesh';
+
+delete from student where student_id =1;
+
+-- truncate command
+truncate table student
+
+--Update command
+update student set roll_no = 21 where student_id = 1;
+update student set Father_Name ='Salvatkar' where student_id = 5;
