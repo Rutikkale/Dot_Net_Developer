@@ -1,0 +1,7 @@
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Copy constructor\bin\Debug\Copy constructor.exe.config
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Copy constructor\bin\Debug\Copy constructor.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Copy constructor\bin\Debug\Copy constructor.pdb
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Copy constructor\obj\Debug\Copy constructor.csproj.AssemblyReference.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Copy constructor\obj\Debug\Copy constructor.csproj.CoreCompileInputs.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Copy constructor\obj\Debug\Copy constructor.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Copy constructor\obj\Debug\Copy constructor.pdb
