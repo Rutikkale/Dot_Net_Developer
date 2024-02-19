@@ -1,0 +1,7 @@
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Private Constructor\bin\Debug\Private Constructor.exe.config
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Private Constructor\bin\Debug\Private Constructor.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Private Constructor\bin\Debug\Private Constructor.pdb
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Private Constructor\obj\Debug\Private Constructor.csproj.AssemblyReference.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Private Constructor\obj\Debug\Private Constructor.csproj.CoreCompileInputs.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Private Constructor\obj\Debug\Private Constructor.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Private Constructor\obj\Debug\Private Constructor.pdb
