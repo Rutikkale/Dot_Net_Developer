@@ -1,0 +1,7 @@
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Static class\bin\Debug\Static class.exe.config
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Static class\bin\Debug\Static class.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Static class\bin\Debug\Static class.pdb
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Static class\obj\Debug\Static class.csproj.AssemblyReference.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Static class\obj\Debug\Static class.csproj.CoreCompileInputs.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Static class\obj\Debug\Static class.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Static class\obj\Debug\Static class.pdb
