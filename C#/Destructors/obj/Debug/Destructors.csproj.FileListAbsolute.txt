@@ -1,0 +1,7 @@
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Destructors\bin\Debug\Destructors.exe.config
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Destructors\bin\Debug\Destructors.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Destructors\bin\Debug\Destructors.pdb
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Destructors\obj\Debug\Destructors.csproj.AssemblyReference.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Destructors\obj\Debug\Destructors.csproj.CoreCompileInputs.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Destructors\obj\Debug\Destructors.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Destructors\obj\Debug\Destructors.pdb
