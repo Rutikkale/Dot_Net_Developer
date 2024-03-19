@@ -27,7 +27,7 @@ namespace Destructors
             return Age;
         }
 
-        ~Person()
+        ~Person() // Destructors
         {
             Console.WriteLine("Destructor has been Invoked");
         }
