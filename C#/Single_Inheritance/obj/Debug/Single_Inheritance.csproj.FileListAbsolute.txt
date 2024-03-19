@@ -1,0 +1,7 @@
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Single_Inheritance\bin\Debug\Single_Inheritance.exe.config
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Single_Inheritance\bin\Debug\Single_Inheritance.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Single_Inheritance\bin\Debug\Single_Inheritance.pdb
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Single_Inheritance\obj\Debug\Single_Inheritance.csproj.AssemblyReference.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Single_Inheritance\obj\Debug\Single_Inheritance.csproj.CoreCompileInputs.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Single_Inheritance\obj\Debug\Single_Inheritance.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Single_Inheritance\obj\Debug\Single_Inheritance.pdb

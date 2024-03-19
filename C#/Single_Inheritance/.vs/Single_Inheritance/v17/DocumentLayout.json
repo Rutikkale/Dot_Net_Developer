@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\2) Dot Net Developer IT job\\Git demo\\Dot_Net_Developer\\C#\\Inheritance\\",
+  "WorkspaceRootPath": "D:\\2) Dot Net Developer IT job\\Git demo\\Dot_Net_Developer\\C#\\Single_Inheritance\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AEA12AF4-3B2B-46FF-B81A-DF6B69FCA145}|Inheritance.csproj|d:\\2) dot net developer it job\\git demo\\dot_net_developer\\c#\\inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEA12AF4-3B2B-46FF-B81A-DF6B69FCA145}|Inheritance.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D8E760E-35BC-4BE8-ABC2-93C1BC6ECC53}|Single_Inheritance.csproj|d:\\2) dot net developer it job\\git demo\\dot_net_developer\\c#\\single_inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8E760E-35BC-4BE8-ABC2-93C1BC6ECC53}|Single_Inheritance.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,13 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\2) Dot Net Developer IT job\\Git demo\\Dot_Net_Developer\\C#\\Inheritance\\Program.cs",
+              "DocumentMoniker": "D:\\2) Dot Net Developer IT job\\Git demo\\Dot_Net_Developer\\C#\\Single_Inheritance\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\2) Dot Net Developer IT job\\Git demo\\Dot_Net_Developer\\C#\\Inheritance\\Program.cs",
+              "ToolTip": "D:\\2) Dot Net Developer IT job\\Git demo\\Dot_Net_Developer\\C#\\Single_Inheritance\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwCEAAAAFAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBEAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T08:11:25.877Z",
+              "WhenOpened": "2024-03-19T09:59:03.742Z",
               "EditorCaption": ""
             }
           ]
