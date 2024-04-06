@@ -1,0 +1,10 @@
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\ListBox\bin\Debug\ListBox.exe.config
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\ListBox\bin\Debug\ListBox.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\ListBox\bin\Debug\ListBox.pdb
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\ListBox\obj\Debug\ListBox.csproj.AssemblyReference.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\ListBox\obj\Debug\ListBox.Form1.resources
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\ListBox\obj\Debug\ListBox.Properties.Resources.resources
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\ListBox\obj\Debug\ListBox.csproj.GenerateResource.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\ListBox\obj\Debug\ListBox.csproj.CoreCompileInputs.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\ListBox\obj\Debug\ListBox.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\ListBox\obj\Debug\ListBox.pdb
