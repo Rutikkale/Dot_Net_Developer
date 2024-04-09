@@ -1,0 +1,7 @@
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Types of Inheritance\bin\Debug\Types of Inheritance.exe.config
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Types of Inheritance\bin\Debug\Types of Inheritance.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Types of Inheritance\bin\Debug\Types of Inheritance.pdb
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Types of Inheritance\obj\Debug\Types of Inheritance.csproj.AssemblyReference.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Types of Inheritance\obj\Debug\Types of Inheritance.csproj.CoreCompileInputs.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Types of Inheritance\obj\Debug\Types of Inheritance.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Types of Inheritance\obj\Debug\Types of Inheritance.pdb
