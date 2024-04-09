@@ -1,0 +1,11 @@
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\Link Label Control\bin\Debug\Link Label Control.exe.config
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\Link Label Control\bin\Debug\Link Label Control.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\Link Label Control\bin\Debug\Link Label Control.pdb
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\Link Label Control\obj\Debug\Link Label Control.csproj.AssemblyReference.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\Link Label Control\obj\Debug\Link_Label_Control.Form1.resources
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\Link Label Control\obj\Debug\Link_Label_Control.Properties.Resources.resources
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\Link Label Control\obj\Debug\Link Label Control.csproj.GenerateResource.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\Link Label Control\obj\Debug\Link Label Control.csproj.CoreCompileInputs.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\Link Label Control\obj\Debug\Link Label Control.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\Link Label Control\obj\Debug\Link Label Control.pdb
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\Link Label Control\obj\Debug\Link_Label_Control.Form2.resources
