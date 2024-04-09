@@ -1,0 +1,10 @@
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\Combo Box\bin\Debug\Combo Box.exe.config
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\Combo Box\bin\Debug\Combo Box.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\Combo Box\bin\Debug\Combo Box.pdb
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\Combo Box\obj\Debug\Combo Box.csproj.AssemblyReference.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\Combo Box\obj\Debug\Combo_Box.Form1.resources
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\Combo Box\obj\Debug\Combo_Box.Properties.Resources.resources
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\Combo Box\obj\Debug\Combo Box.csproj.GenerateResource.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\Combo Box\obj\Debug\Combo Box.csproj.CoreCompileInputs.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\Combo Box\obj\Debug\Combo Box.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\Combo Box\obj\Debug\Combo Box.pdb
