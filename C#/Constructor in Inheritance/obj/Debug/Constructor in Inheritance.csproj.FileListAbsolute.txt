@@ -1,0 +1,7 @@
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Constructor in Inheritance\bin\Debug\Constructor in Inheritance.exe.config
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Constructor in Inheritance\bin\Debug\Constructor in Inheritance.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Constructor in Inheritance\bin\Debug\Constructor in Inheritance.pdb
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Constructor in Inheritance\obj\Debug\Constructor in Inheritance.csproj.AssemblyReference.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Constructor in Inheritance\obj\Debug\Constructor in Inheritance.csproj.CoreCompileInputs.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Constructor in Inheritance\obj\Debug\Constructor in Inheritance.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\C#\Constructor in Inheritance\obj\Debug\Constructor in Inheritance.pdb
