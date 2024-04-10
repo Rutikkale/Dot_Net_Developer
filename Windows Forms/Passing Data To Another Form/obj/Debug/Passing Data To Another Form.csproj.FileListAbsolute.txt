@@ -1,0 +1,11 @@
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\Passing Data To Another Form\bin\Debug\Passing Data To Another Form.exe.config
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\Passing Data To Another Form\bin\Debug\Passing Data To Another Form.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\Passing Data To Another Form\bin\Debug\Passing Data To Another Form.pdb
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\Passing Data To Another Form\obj\Debug\Passing Data To Another Form.csproj.AssemblyReference.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\Passing Data To Another Form\obj\Debug\Passing_Data_To_Another_Form.Form1.resources
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\Passing Data To Another Form\obj\Debug\Passing_Data_To_Another_Form.Properties.Resources.resources
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\Passing Data To Another Form\obj\Debug\Passing Data To Another Form.csproj.GenerateResource.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\Passing Data To Another Form\obj\Debug\Passing Data To Another Form.csproj.CoreCompileInputs.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\Passing Data To Another Form\obj\Debug\Passing Data To Another Form.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\Passing Data To Another Form\obj\Debug\Passing Data To Another Form.pdb
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\Passing Data To Another Form\obj\Debug\Passing_Data_To_Another_Form.Form2.resources
