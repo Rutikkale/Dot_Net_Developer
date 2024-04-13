@@ -1,0 +1,10 @@
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\Update selected Listbox items\bin\Debug\Update selected Listbox items.exe.config
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\Update selected Listbox items\bin\Debug\Update selected Listbox items.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\Update selected Listbox items\bin\Debug\Update selected Listbox items.pdb
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\Update selected Listbox items\obj\Debug\Update selected Listbox items.csproj.AssemblyReference.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\Update selected Listbox items\obj\Debug\Update_selected_Listbox_items.Form1.resources
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\Update selected Listbox items\obj\Debug\Update_selected_Listbox_items.Properties.Resources.resources
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\Update selected Listbox items\obj\Debug\Update selected Listbox items.csproj.GenerateResource.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\Update selected Listbox items\obj\Debug\Update selected Listbox items.csproj.CoreCompileInputs.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\Update selected Listbox items\obj\Debug\Update selected Listbox items.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\Update selected Listbox items\obj\Debug\Update selected Listbox items.pdb
