@@ -1,0 +1,10 @@
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\CheckBox Control\bin\Debug\CheckBox Control.exe.config
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\CheckBox Control\bin\Debug\CheckBox Control.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\CheckBox Control\bin\Debug\CheckBox Control.pdb
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\CheckBox Control\obj\Debug\CheckBox Control.csproj.AssemblyReference.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\CheckBox Control\obj\Debug\CheckBox_Control.Form1.resources
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\CheckBox Control\obj\Debug\CheckBox_Control.Properties.Resources.resources
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\CheckBox Control\obj\Debug\CheckBox Control.csproj.GenerateResource.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\CheckBox Control\obj\Debug\CheckBox Control.csproj.CoreCompileInputs.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\CheckBox Control\obj\Debug\CheckBox Control.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\Windows Forms\CheckBox Control\obj\Debug\CheckBox Control.pdb
