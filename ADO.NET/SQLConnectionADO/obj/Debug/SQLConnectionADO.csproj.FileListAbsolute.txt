@@ -1,0 +1,7 @@
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ADO.NET\SQLConnectionADO\bin\Debug\SQLConnectionADO.exe.config
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ADO.NET\SQLConnectionADO\bin\Debug\SQLConnectionADO.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ADO.NET\SQLConnectionADO\bin\Debug\SQLConnectionADO.pdb
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ADO.NET\SQLConnectionADO\obj\Debug\SQLConnectionADO.csproj.AssemblyReference.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ADO.NET\SQLConnectionADO\obj\Debug\SQLConnectionADO.csproj.CoreCompileInputs.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ADO.NET\SQLConnectionADO\obj\Debug\SQLConnectionADO.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ADO.NET\SQLConnectionADO\obj\Debug\SQLConnectionADO.pdb
