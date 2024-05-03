@@ -1,0 +1,7 @@
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ADO.NET\DataSet Ado net\bin\Debug\DataSet Ado net.exe.config
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ADO.NET\DataSet Ado net\bin\Debug\DataSet Ado net.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ADO.NET\DataSet Ado net\bin\Debug\DataSet Ado net.pdb
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ADO.NET\DataSet Ado net\obj\Debug\DataSet Ado net.csproj.AssemblyReference.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ADO.NET\DataSet Ado net\obj\Debug\DataSet Ado net.csproj.CoreCompileInputs.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ADO.NET\DataSet Ado net\obj\Debug\DataSet Ado net.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ADO.NET\DataSet Ado net\obj\Debug\DataSet Ado net.pdb

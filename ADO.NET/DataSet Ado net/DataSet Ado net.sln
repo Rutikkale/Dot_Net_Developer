@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataSet Ado net", "DataSet Ado net.csproj", "{CAB282B8-8AB6-4768-BA34-9D3399D01B01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAB282B8-8AB6-4768-BA34-9D3399D01B01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAB282B8-8AB6-4768-BA34-9D3399D01B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAB282B8-8AB6-4768-BA34-9D3399D01B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAB282B8-8AB6-4768-BA34-9D3399D01B01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0B9A8B2-D735-434B-A1C0-C71A9B8852F9}
+	EndGlobalSection
+EndGlobal

@@ -44,3 +44,13 @@ create table student_tbl(std_id int Primary key,
  end
 
  execute spGetEmployees;
+
+ -- Stored Procedure  for CRUD Operation in Asp.net Mvc Ado.net -----------
+
+ create procedure spGetEmployeesAspNet
+ as 
+ begin
+ select*From employee_tbl
+ end
+ 
+ execute spGetEmployeesAspNet
