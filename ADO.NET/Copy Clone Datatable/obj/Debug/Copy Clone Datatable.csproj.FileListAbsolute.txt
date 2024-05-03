@@ -1,0 +1,7 @@
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ADO.NET\Copy Clone Datatable\bin\Debug\Copy Clone Datatable.exe.config
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ADO.NET\Copy Clone Datatable\bin\Debug\Copy Clone Datatable.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ADO.NET\Copy Clone Datatable\bin\Debug\Copy Clone Datatable.pdb
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ADO.NET\Copy Clone Datatable\obj\Debug\Copy Clone Datatable.csproj.AssemblyReference.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ADO.NET\Copy Clone Datatable\obj\Debug\Copy Clone Datatable.csproj.CoreCompileInputs.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ADO.NET\Copy Clone Datatable\obj\Debug\Copy Clone Datatable.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ADO.NET\Copy Clone Datatable\obj\Debug\Copy Clone Datatable.pdb

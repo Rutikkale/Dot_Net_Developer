@@ -14,8 +14,8 @@ namespace SqlDataAdapterDemo
         static void Main(string[] args)
         {
             string cs = ConfigurationManager.ConnectionStrings["dbes"].ConnectionString;
-            SqlConnection conn = new SqlConnection(cs);
-            SqlDataAdapter sda = new SqlDataAdapter("select*from employee_tbl",conn);  
+            SqlConnection con = new SqlConnection(cs);
+            SqlDataAdapter sda = new SqlDataAdapter("select*from employee_tbl",con);  
             DataSet ds = new DataSet();
             sda.Fill(ds);
 
