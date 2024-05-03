@@ -1,0 +1,7 @@
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ADO.NET\Ado Net Data Table\bin\Debug\Ado Net Data Table.exe.config
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ADO.NET\Ado Net Data Table\bin\Debug\Ado Net Data Table.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ADO.NET\Ado Net Data Table\bin\Debug\Ado Net Data Table.pdb
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ADO.NET\Ado Net Data Table\obj\Debug\Ado Net Data Table.csproj.AssemblyReference.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ADO.NET\Ado Net Data Table\obj\Debug\Ado Net Data Table.csproj.CoreCompileInputs.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ADO.NET\Ado Net Data Table\obj\Debug\Ado Net Data Table.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ADO.NET\Ado Net Data Table\obj\Debug\Ado Net Data Table.pdb
