@@ -1,0 +1,7 @@
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ADO.NET\SqlCommand Class\bin\Debug\SqlCommand Class.exe.config
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ADO.NET\SqlCommand Class\bin\Debug\SqlCommand Class.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ADO.NET\SqlCommand Class\bin\Debug\SqlCommand Class.pdb
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ADO.NET\SqlCommand Class\obj\Debug\SqlCommand Class.csproj.AssemblyReference.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ADO.NET\SqlCommand Class\obj\Debug\SqlCommand Class.csproj.CoreCompileInputs.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ADO.NET\SqlCommand Class\obj\Debug\SqlCommand Class.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ADO.NET\SqlCommand Class\obj\Debug\SqlCommand Class.pdb

@@ -1,0 +1,7 @@
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ADO.NET\SqlDataAdapterDemo\bin\Debug\SqlDataAdapterDemo.exe.config
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ADO.NET\SqlDataAdapterDemo\bin\Debug\SqlDataAdapterDemo.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ADO.NET\SqlDataAdapterDemo\bin\Debug\SqlDataAdapterDemo.pdb
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ADO.NET\SqlDataAdapterDemo\obj\Debug\SqlDataAdapterDemo.csproj.AssemblyReference.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ADO.NET\SqlDataAdapterDemo\obj\Debug\SqlDataAdapterDemo.csproj.CoreCompileInputs.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ADO.NET\SqlDataAdapterDemo\obj\Debug\SqlDataAdapterDemo.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ADO.NET\SqlDataAdapterDemo\obj\Debug\SqlDataAdapterDemo.pdb

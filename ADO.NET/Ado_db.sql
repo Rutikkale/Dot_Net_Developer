@@ -1,11 +1,12 @@
 use Ado_db
 
 create table employee_tbl(id int primary key,
-                          name varchar(50) not null,
-						  gender varchar(10) not null,
-						  age int not null,
-						  salary int not null,
+                          name varchar(50),
+						  gender varchar(10),
+						  age int,
+						  salary int,
 						  city varchar(50));
+drop table employee_tbl
 
 select*from employee_tbl
 

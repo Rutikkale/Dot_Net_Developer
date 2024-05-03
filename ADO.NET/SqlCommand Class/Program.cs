@@ -7,8 +7,7 @@ using System.Data;
 using System.Data.SqlClient;
 using System.Configuration;
 
-
-namespace ConnectionADO
+namespace SqlCommand_Class
 {
     internal class Program
     {
@@ -17,22 +16,20 @@ namespace ConnectionADO
             Program.connection();
             Console.ReadLine();
         }
-        
-         static void connection()
+
+        static void connection()
         {
-            string cs = "Data Source = LAPTOP-0BJDO9D1\\SQLEXPRESS ; Initial Catalog = Ado_db; Integrated Security = true ";
-            //string cs = ConfigurationManager.ConnectionStrings["dbes"].ConnectionString;
+            string cs = ConfigurationManager.ConnectionStrings["dbes"].ConnectionString;
             SqlConnection conn = null;
 
             try
             {
                 using (conn = new SqlConnection(cs))
                 {
+                    string query = "select*from employee_tbl";
+                    SqlCommand cmd = new SqlCommand(query, conn);
                     conn.Open();
-                    if (conn.State == ConnectionState.Open)
-                    {
-                        Console.WriteLine("connection has been Created Successfully!!");
-                    }
+                    cmd.ExecuteReader();
                 }
 
             }
@@ -43,10 +40,8 @@ namespace ConnectionADO
             }
             finally
             {
-                conn?.Close();
+                conn.Close();
             }
-
         }
     }
-
 }
