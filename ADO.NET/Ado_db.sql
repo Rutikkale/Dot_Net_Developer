@@ -1,7 +1,7 @@
 use Ado_db
 
 ------------------------------ employee_tbl -----------------------------------
-create table employee_tbl(id int primary key,
+create table employee_tbl(id int primary key identity,
                           name varchar(50),
 						  gender varchar(10),
 						  age int,
@@ -11,12 +11,12 @@ drop table employee_tbl
 
 select*from employee_tbl
 
-insert into employee_tbl values(1,'Rutik Kale','Male',23,25000,'Nagpur')
-insert into employee_tbl values(2,'Arpit Kale','Male',23,25000,'Nagpur')
-insert into employee_tbl values(3,'Harshal Shinde','Male',21,35000,'Mumbai')
-insert into employee_tbl values(4,'Ram Raut','Male',28,25000,'Yavatmal')
-insert into employee_tbl values(5,'Vikas Bankar','Male',35,45000,'Yavatmal')
-insert into employee_tbl values(6,'Sakshi Swarkar','Female',22,25000,'Nagpur')
+insert into employee_tbl values('Rutik Kale','Male',23,25000,'Nagpur')
+insert into employee_tbl values('Arpit Kale','Male',23,25000,'Nagpur')
+insert into employee_tbl values('Harshal Shinde','Male',21,35000,'Mumbai')
+insert into employee_tbl values('Ram Raut','Male',28,25000,'Yavatmal')
+insert into employee_tbl values('Vikas Bankar','Male',35,45000,'Yavatmal')
+insert into employee_tbl values('Sakshi Swarkar','Female',22,25000,'Nagpur')
 
 
 ------------------------------ Student_tbl -----------------------------------
@@ -45,7 +45,7 @@ create table student_tbl(std_id int Primary key,
 
  execute spGetEmployees;
 
- -- Stored Procedure  for CRUD Operation in Asp.net Mvc Ado.net -----------
+ ------------ Stored Procedure  for CRUD Operation in Asp.net Mvc Ado.net -----------
 
  create procedure spGetEmployeesAspNet
  as 
@@ -54,3 +54,52 @@ create table student_tbl(std_id int Primary key,
  end
  
  execute spGetEmployeesAspNet
+
+--------------------------Stored Procedure  for CRUD spAddEmployees --------------------------
+
+ create procedure spAddEmployeeAspNet
+ (@id int,
+ @name varchar(50),
+ @gender varchar(50),
+ @age int,
+ @salary int,
+ @city varchar(5)
+ )
+ as 
+ begin
+ insert into employee_tbl (id, name, gender, age, salary, city)
+ values(@id,@name,@gender,@age,@salary,@city)
+ end
+ 
+ execute spAddEmployeeAspNet 8 ,"Sanket", "male", 23, 45000,"Nagpur"
+
+ --------------------------Stored Procedure spUpdateEmployees --------------------------
+
+ create procedure spUpdateEmployeeAspNet
+ (@id int,
+ @name varchar(50),
+ @gender varchar(50),
+ @age int,
+ @salary int,
+ @city varchar(5)
+ )
+ as 
+ begin
+ Update employee_tbl set name=@name, gender=@gender,age = @gender, salary=@salary, city=@city
+where id=@id
+ end
+
+ execute spUpdateEmployeeAspNet 5 ,'Vivek','Male',24,25000,'Yavatmal'
+
+ --------------------------Stored Procedure spDeleteEmployees --------------------------
+
+ create procedure spDeleteEmployeesAspNet
+ (@id int)
+ as 
+ begin
+ delete from employee_tbl where id = @id
+ end
+
+ execute spDeleteEmployeesAspNet 6
+
+ select*from employee_tbl

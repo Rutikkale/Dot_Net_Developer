@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\2) Dot Net Developer IT job\\Git demo\\Dot_Net_Developer\\Windows Forms\\CheckBox Control\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C01CAF1-EAB0-4D04-8990-F69CAD5ACB55}|CheckBox Control.csproj|d:\\2) dot net developer it job\\git demo\\dot_net_developer\\windows forms\\checkbox control\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C01CAF1-EAB0-4D04-8990-F69CAD5ACB55}|CheckBox Control.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C01CAF1-EAB0-4D04-8990-F69CAD5ACB55}|CheckBox Control.csproj|D:\\2) Dot Net Developer IT job\\Git demo\\Dot_Net_Developer\\Windows Forms\\CheckBox Control\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C01CAF1-EAB0-4D04-8990-F69CAD5ACB55}|CheckBox Control.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C01CAF1-EAB0-4D04-8990-F69CAD5ACB55}|CheckBox Control.csproj|d:\\2) dot net developer it job\\git demo\\dot_net_developer\\windows forms\\checkbox control\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4C01CAF1-EAB0-4D04-8990-F69CAD5ACB55}|CheckBox Control.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4C01CAF1-EAB0-4D04-8990-F69CAD5ACB55}|CheckBox Control.csproj|d:\\2) dot net developer it job\\git demo\\dot_net_developer\\windows forms\\checkbox control\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C01CAF1-EAB0-4D04-8990-F69CAD5ACB55}|CheckBox Control.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +30,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\2) Dot Net Developer IT job\\Git demo\\Dot_Net_Developer\\Windows Forms\\CheckBox Control\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -43,7 +43,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\2) Dot Net Developer IT job\\Git demo\\Dot_Net_Developer\\Windows Forms\\CheckBox Control\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
