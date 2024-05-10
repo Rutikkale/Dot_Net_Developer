@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2) Dot Net Developer IT job\\Git demo\\Dot_Net_Developer\\ASP.NET Web Forms\\Master Page Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2DAE32F-0302-4418-A099-800F3C645DED}|Master Page Demo.csproj|d:\\2) dot net developer it job\\git demo\\dot_net_developer\\asp.net web forms\\master page demo\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D2DAE32F-0302-4418-A099-800F3C645DED}|Master Page Demo.csproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2DAE32F-0302-4418-A099-800F3C645DED}|Master Page Demo.csproj|d:\\2) dot net developer it job\\git demo\\dot_net_developer\\asp.net web forms\\master page demo\\contactpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D2DAE32F-0302-4418-A099-800F3C645DED}|Master Page Demo.csproj|solutionrelative:contactpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Master Page Demo||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2DAE32F-0302-4418-A099-800F3C645DED}|Master Page Demo.csproj|d:\\2) dot net developer it job\\git demo\\dot_net_developer\\asp.net web forms\\master page demo\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{D2DAE32F-0302-4418-A099-800F3C645DED}|Master Page Demo.csproj|solutionrelative:masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2DAE32F-0302-4418-A099-800F3C645DED}|Master Page Demo.csproj|d:\\2) dot net developer it job\\git demo\\dot_net_developer\\asp.net web forms\\master page demo\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|909d16b3-c8e8-43d1-a2b8-26ea0d4b6b57"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Master Page Demo",
+              "DocumentMoniker": "D:\\2) Dot Net Developer IT job\\Git demo\\Dot_Net_Developer\\ASP.NET Web Forms\\Master Page Demo\\Master Page Demo.csproj",
+              "RelativeDocumentMoniker": "Master Page Demo.csproj",
+              "ToolTip": "D:\\2) Dot Net Developer IT job\\Git demo\\Dot_Net_Developer\\ASP.NET Web Forms\\Master Page Demo\\Master Page Demo.csproj",
+              "RelativeToolTip": "Master Page Demo.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-10T12:40:45.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactPage.aspx",
+              "DocumentMoniker": "D:\\2) Dot Net Developer IT job\\Git demo\\Dot_Net_Developer\\ASP.NET Web Forms\\Master Page Demo\\ContactPage.aspx",
+              "RelativeDocumentMoniker": "ContactPage.aspx",
+              "ToolTip": "D:\\2) Dot Net Developer IT job\\Git demo\\Dot_Net_Developer\\ASP.NET Web Forms\\Master Page Demo\\ContactPage.aspx",
+              "RelativeToolTip": "ContactPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-10T12:34:10.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "D:\\2) Dot Net Developer IT job\\Git demo\\Dot_Net_Developer\\ASP.NET Web Forms\\Master Page Demo\\Default.aspx",
+              "RelativeDocumentMoniker": "Default.aspx",
+              "ToolTip": "D:\\2) Dot Net Developer IT job\\Git demo\\Dot_Net_Developer\\ASP.NET Web Forms\\Master Page Demo\\Default.aspx",
+              "RelativeToolTip": "Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-10T12:21:08.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MasterPage.Master",
+              "DocumentMoniker": "D:\\2) Dot Net Developer IT job\\Git demo\\Dot_Net_Developer\\ASP.NET Web Forms\\Master Page Demo\\MasterPage.Master",
+              "RelativeDocumentMoniker": "MasterPage.Master",
+              "ToolTip": "D:\\2) Dot Net Developer IT job\\Git demo\\Dot_Net_Developer\\ASP.NET Web Forms\\Master Page Demo\\MasterPage.Master",
+              "RelativeToolTip": "MasterPage.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-10T11:53:14.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
