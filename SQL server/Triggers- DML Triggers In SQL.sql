@@ -8,7 +8,7 @@ insert into Student_tbl values('Sakshi','Pravin',2,2500)
 insert into Student_tbl values('Sayali','Pramod',6,2100)
 insert into Student_tbl values('Sayali','Pramod',6,2100)
 
-
+-----------After Trigger---------------------
 create trigger tr_student_ForInsert
 on Student_tbl
 after insert 
