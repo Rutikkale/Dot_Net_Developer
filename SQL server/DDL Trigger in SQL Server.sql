@@ -9,6 +9,10 @@ begin
 print'New table Created !!'
 end
 
+drop trigger tr_ddl_table_create on database;
+
+
+
 create trigger tr_ddl_table_alter
 on database
 for alter_table
@@ -18,6 +22,9 @@ print'You have just altered a table';
 end
 
 alter table test_tbl add name varchar(50);
+drop trigger tr_ddl_table_alter on database;
+
+
 
 create trigger tr_ddl_table_drop
 on database
@@ -28,6 +35,8 @@ print 'You have just drop a table ';
 end
 
 drop table test_tbl;
+drop trigger tr_ddl_table_drop on database;
+
 
 -----------------------------------------
 
@@ -38,6 +47,9 @@ as
 begin
 print 'You Have just create, alter or drop table';
 end
+
+drop trigger tr_ddl_table on database;
+
 
 create table ddl_tablecheck(id int)
 alter table ddl_tablecheck add name varchar(50);
