@@ -22,3 +22,19 @@ sp_helpIndex FullTimeEmployees;
 select*from FullTimeEmployees where Salary>10000 and Salary<22000;
 
 drop index FullTimeEmployees.IX_FTE_Salary;
+
+-----------------------------Clustered Index------------------
+
+create table FullTimeEmployees(Id int Primary key,
+                               Name varchar(50),
+							   Gender varchar(10),
+							   Designation varchar(50),
+							   Salary int);
+
+create Clustered index IX_FTE_Id_Clustered
+on FullTimeEmployees(Id asc);
+
+sp_HelpIndex FullTimeEmployees;
+
+create Clustered index IX_FTE_Gender_Salary_Clustered
+on FullTimeEmployees(Gender asc , Salary asc);
