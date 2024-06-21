@@ -27,7 +27,8 @@ insert into employee values('Rutik' + cast(26 as varchar), GETDATE())
 
 select*from employee where Joining_date= '2014-07-24 ';
 
-select*from employee where cast( Joining_date as date)= '2014-07-24 ' ;
+select*from employee where cast( Joining_date as date)= '2014-07-24 ';
+
 select Id,Name,Cast(Joining_date as date)from employee;
 
 select Id,Name,Cast(Joining_date as date)from employee
