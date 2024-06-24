@@ -12,6 +12,10 @@ declare @num2 decimal=24.50
 select convert(int,@num2)
 select @num2;
 
+declare @num3 decimal=24.50
+select cast(@num3 as int)
+select @num3;
+
 select cast('2024-06-21' as date);
 
 select CONVERT(date,'2024-07-25');
