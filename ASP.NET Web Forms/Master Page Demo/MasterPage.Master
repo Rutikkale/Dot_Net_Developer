@@ -7,12 +7,15 @@
     <title></title>
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
+    <%--<link href="Css/Style.css" rel="stylesheet" type="text/css"/>--%>
+    <link href="Css/Style.css" rel="stylesheet" />
 </head>
 <body>
     <form id="form1" runat="server">
         <div class="wrapper">
             <div class="header">
-                <h1>THIS IS THE HEADER OF MY NEW WEBSITE !!</h1>
+              <%--  <h1>THIS IS THE HEADER OF MY NEW WEBSITE !!</h1>--%>
+             <img src="Images/headerimage.jpeg" width="1000" />
             </div>
             <div>
             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">

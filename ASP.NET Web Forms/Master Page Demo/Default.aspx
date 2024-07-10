@@ -3,5 +3,5 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <h3> THIS IS MY INDEX PAGE !!</h3>
-    <a href="ContactPage.aspx">Go To Contact Page...</a>
+   <h3> <a href="ContactPage.aspx">Go To Contact Page...</a> </h3>
 </asp:Content>

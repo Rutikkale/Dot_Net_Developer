@@ -68,7 +68,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="ContactPage.aspx" />
+    <Content Include="Css\Style.css" />
     <Content Include="Default.aspx" />
+    <Content Include="Images\headerimage.jpeg" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
