@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Security;
 using System.Web.SessionState;
 
-namespace egular_expression_validator
+namespace validation_summery
 {
     public class Global : System.Web.HttpApplication
     {
