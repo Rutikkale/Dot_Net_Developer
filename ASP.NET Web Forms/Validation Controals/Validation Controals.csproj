@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="loginstudent.aspx" />
+    <Content Include="RegularExpressionValidation .aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -79,6 +80,13 @@
       <DependentUpon>loginstudent.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegularExpressionValidation .aspx.cs">
+      <DependentUpon>RegularExpressionValidation .aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RegularExpressionValidation .aspx.designer.cs">
+      <DependentUpon>RegularExpressionValidation .aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
