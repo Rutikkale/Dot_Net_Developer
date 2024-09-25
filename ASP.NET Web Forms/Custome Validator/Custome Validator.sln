@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Custome Validator", "Custome Validator.csproj", "{3EF4A738-65D9-4E11-832C-A28E2C3B02F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EF4A738-65D9-4E11-832C-A28E2C3B02F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EF4A738-65D9-4E11-832C-A28E2C3B02F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EF4A738-65D9-4E11-832C-A28E2C3B02F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EF4A738-65D9-4E11-832C-A28E2C3B02F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D511E5F-0E4F-4DB3-90E5-30BA7F3A6204}
+	EndGlobalSection
+EndGlobal

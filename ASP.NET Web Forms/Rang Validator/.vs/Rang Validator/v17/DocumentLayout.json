@@ -7,11 +7,18 @@
       "RelativeMoniker": "D:0:0:{39A6AE88-63EF-4C37-8900-68E235823E99}|Rang Validator.csproj|solutionrelative:rangvalidator.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rutik\\AppData\\Local\\Temp\\d7931b4f-b167-487d-a999-ef2ac91b8a2d_ValidationControlsRangValidator.rar.a2d\\ValidationControlsForm\\ValidationControlsForm\\ValidationForm.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{39A6AE88-63EF-4C37-8900-68E235823E99}|Rang Validator.csproj|d:\\2) dot net developer it job\\git demo\\dot_net_developer\\asp.net web forms\\rang validator\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{39A6AE88-63EF-4C37-8900-68E235823E99}|Rang Validator.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39A6AE88-63EF-4C37-8900-68E235823E99}|Rang Validator.csproj|d:\\2) dot net developer it job\\git demo\\dot_net_developer\\asp.net web forms\\rang validator\\rangvalidator.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rutik\\AppData\\Local\\Temp\\fe2ebf4b-301b-4f89-86be-99524527b0b6_Another Example Custome Validator.rar.0b6\\Another Example Custome Validator\\Another Example Custome Validator\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A6AE88-63EF-4C37-8900-68E235823E99}|Rang Validator.csproj|D:\\2) Dot Net Developer IT job\\Git demo\\Dot_Net_Developer\\ASP.NET Web Forms\\Rang Validator\\rangvalidator.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{39A6AE88-63EF-4C37-8900-68E235823E99}|Rang Validator.csproj|solutionrelative:rangvalidator.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rutik\\AppData\\Local\\Temp\\d7931b4f-b167-487d-a999-ef2ac91b8a2d_ValidationControlsRangValidator.rar.a2d\\ValidationControlsForm\\ValidationControlsForm\\ValidationForm.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rutik\\AppData\\Local\\Temp\\a179bb48-8e75-4abc-84cd-35d170c6469e_ValidationControlsRangValidator.rar.69e\\ValidationControlsForm\\ValidationControlsForm\\ValidationForm.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
@@ -24,11 +31,39 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\2) Dot Net Developer IT job\\Git demo\\Dot_Net_Developer\\ASP.NET Web Forms\\Rang Validator\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "D:\\2) Dot Net Developer IT job\\Git demo\\Dot_Net_Developer\\ASP.NET Web Forms\\Rang Validator\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-25T02:58:32.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\rutik\\AppData\\Local\\Temp\\fe2ebf4b-301b-4f89-86be-99524527b0b6_Another Example Custome Validator.rar.0b6\\Another Example Custome Validator\\Another Example Custome Validator\\Web.config",
+              "ToolTip": "C:\\Users\\rutik\\AppData\\Local\\Temp\\fe2ebf4b-301b-4f89-86be-99524527b0b6_Another Example Custome Validator.rar.0b6\\Another Example Custome Validator\\Another Example Custome Validator\\Web.config [Read Only]",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-25T02:59:01.049Z",
+              "EditorCaption": " [Read Only]"
             },
             {
               "$type": "Document",
@@ -38,25 +73,25 @@
               "RelativeDocumentMoniker": "RangValidator.aspx.cs",
               "ToolTip": "D:\\2) Dot Net Developer IT job\\Git demo\\Dot_Net_Developer\\ASP.NET Web Forms\\Rang Validator\\RangValidator.aspx.cs",
               "RelativeToolTip": "RangValidator.aspx.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAewBMAAAAAAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAewBMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T16:43:48.74Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ValidationForm.aspx.cs",
               "DocumentMoniker": "C:\\Users\\rutik\\AppData\\Local\\Temp\\d7931b4f-b167-487d-a999-ef2ac91b8a2d_ValidationControlsRangValidator.rar.a2d\\ValidationControlsForm\\ValidationControlsForm\\ValidationForm.aspx.cs",
-              "ToolTip": "C:\\Users\\rutik\\AppData\\Local\\Temp\\d7931b4f-b167-487d-a999-ef2ac91b8a2d_ValidationControlsRangValidator.rar.a2d\\ValidationControlsForm\\ValidationControlsForm\\ValidationForm.aspx.cs [Read Only]",
+              "ToolTip": "C:\\Users\\rutik\\AppData\\Local\\Temp\\d7931b4f-b167-487d-a999-ef2ac91b8a2d_ValidationControlsRangValidator.rar.a2d\\ValidationControlsForm\\ValidationControlsForm\\ValidationForm.aspx.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T16:43:40.746Z",
-              "EditorCaption": " [Read Only]"
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "RangValidator.aspx",
               "DocumentMoniker": "D:\\2) Dot Net Developer IT job\\Git demo\\Dot_Net_Developer\\ASP.NET Web Forms\\Rang Validator\\RangValidator.aspx",
               "RelativeDocumentMoniker": "RangValidator.aspx",
@@ -69,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ValidationForm.aspx",
               "DocumentMoniker": "C:\\Users\\rutik\\AppData\\Local\\Temp\\a179bb48-8e75-4abc-84cd-35d170c6469e_ValidationControlsRangValidator.rar.69e\\ValidationControlsForm\\ValidationControlsForm\\ValidationForm.aspx",
               "ToolTip": "C:\\Users\\rutik\\AppData\\Local\\Temp\\a179bb48-8e75-4abc-84cd-35d170c6469e_ValidationControlsRangValidator.rar.69e\\ValidationControlsForm\\ValidationControlsForm\\ValidationForm.aspx [Read Only]",
@@ -77,10 +112,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-09-24T16:41:23.166Z",
               "EditorCaption": " [Read Only]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }

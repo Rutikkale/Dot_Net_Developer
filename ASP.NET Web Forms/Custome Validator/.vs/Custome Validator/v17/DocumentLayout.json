@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2) Dot Net Developer IT job\\Git demo\\Dot_Net_Developer\\ASP.NET Web Forms\\Custome Validator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF4A738-65D9-4E11-832C-A28E2C3B02F7}|Custome Validator.csproj|d:\\2) dot net developer it job\\git demo\\dot_net_developer\\asp.net web forms\\custome validator\\customevalidator.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF4A738-65D9-4E11-832C-A28E2C3B02F7}|Custome Validator.csproj|solutionrelative:customevalidator.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomeValidator.aspx.cs",
+              "DocumentMoniker": "D:\\2) Dot Net Developer IT job\\Git demo\\Dot_Net_Developer\\ASP.NET Web Forms\\Custome Validator\\CustomeValidator.aspx.cs",
+              "RelativeDocumentMoniker": "CustomeValidator.aspx.cs",
+              "ToolTip": "D:\\2) Dot Net Developer IT job\\Git demo\\Dot_Net_Developer\\ASP.NET Web Forms\\Custome Validator\\CustomeValidator.aspx.cs",
+              "RelativeToolTip": "CustomeValidator.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T03:07:44.69Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
