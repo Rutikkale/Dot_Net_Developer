@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsPost Back", "IsPost Back.csproj", "{EB06007C-13A1-4D15-B0F3-61C6BC63D5D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB06007C-13A1-4D15-B0F3-61C6BC63D5D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB06007C-13A1-4D15-B0F3-61C6BC63D5D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB06007C-13A1-4D15-B0F3-61C6BC63D5D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB06007C-13A1-4D15-B0F3-61C6BC63D5D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABE93E77-F0AE-42FB-A96F-CFCA666C8681}
+	EndGlobalSection
+EndGlobal
