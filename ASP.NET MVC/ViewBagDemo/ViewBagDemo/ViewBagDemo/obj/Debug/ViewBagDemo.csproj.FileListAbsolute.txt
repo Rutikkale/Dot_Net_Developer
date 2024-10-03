@@ -1,0 +1,138 @@
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\ViewBagDemo.dll.config
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\ViewBagDemo.dll
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\ViewBagDemo.pdb
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\roslyn\csc.exe
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\roslyn\csc.exe.config
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\roslyn\csc.rsp
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\roslyn\csi.exe
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\roslyn\csi.exe.config
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\roslyn\csi.rsp
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\roslyn\System.AppContext.dll
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\roslyn\System.Collections.Immutable.dll
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\roslyn\System.Console.dll
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\roslyn\System.IO.Compression.dll
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\roslyn\System.IO.FileSystem.dll
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\roslyn\System.IO.Pipes.dll
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\roslyn\System.Reflection.Metadata.dll
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\roslyn\System.Security.AccessControl.dll
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\roslyn\System.Security.Claims.dll
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\roslyn\System.ValueTuple.dll
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\roslyn\System.Xml.XPath.dll
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\roslyn\vbc.exe
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\roslyn\vbc.exe.config
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\roslyn\vbc.rsp
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\roslyn\VBCSCompiler.exe
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\roslyn\VBCSCompiler.exe.config
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\System.Web.Helpers.dll
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\System.Web.Mvc.dll
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\System.Web.Razor.dll
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\System.Web.Webpages.Deployment.dll
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\System.Web.Webpages.dll
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\System.Web.Webpages.Razor.dll
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\System.Web.Razor.xml
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\System.Web.Webpages.xml
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\System.Web.Webpages.Deployment.xml
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\System.Web.Webpages.Razor.xml
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\System.Web.Helpers.xml
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\System.Web.Mvc.xml
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\obj\Debug\ViewBagDemo.csprojAssemblyReference.cache
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\obj\Debug\ViewBagDemo.csproj.CoreCompileInputs.cache
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\obj\Debug\ViewBagDemo.csproj.CopyComplete
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\obj\Debug\ViewBagDemo.dll
+D:\Dot Net Developer\Asp.net MVC\ViewBagDemo\ViewBagDemo\obj\Debug\ViewBagDemo.pdb
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\ViewBagDemo.dll.config
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\ViewBagDemo.dll
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\ViewBagDemo.pdb
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\roslyn\csc.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\roslyn\csc.exe.config
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\roslyn\csc.rsp
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\roslyn\csi.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\roslyn\csi.exe.config
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\roslyn\csi.rsp
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\roslyn\Microsoft.Managed.Core.targets
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\roslyn\System.AppContext.dll
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\roslyn\System.Collections.Immutable.dll
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\roslyn\System.Console.dll
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\roslyn\System.IO.Compression.dll
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\roslyn\System.IO.FileSystem.dll
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\roslyn\System.IO.Pipes.dll
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\roslyn\System.Reflection.Metadata.dll
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\roslyn\System.Security.AccessControl.dll
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\roslyn\System.Security.Claims.dll
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\roslyn\System.Security.Principal.Windows.dll
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\roslyn\System.ValueTuple.dll
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\roslyn\System.Xml.XmlDocument.dll
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\roslyn\System.Xml.XPath.dll
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\roslyn\vbc.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\roslyn\vbc.exe.config
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\roslyn\vbc.rsp
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\roslyn\VBCSCompiler.exe
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\roslyn\VBCSCompiler.exe.config
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\System.Web.Helpers.dll
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\System.Web.Mvc.dll
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\System.Web.Razor.dll
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\System.Web.Webpages.Deployment.dll
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\System.Web.Webpages.dll
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\System.Web.Webpages.Razor.dll
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\System.Web.Razor.xml
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\System.Web.Webpages.xml
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\System.Web.Webpages.Deployment.xml
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\System.Web.Webpages.Razor.xml
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\System.Web.Helpers.xml
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\System.Web.Mvc.xml
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\obj\Debug\ViewBagDemo.csproj.AssemblyReference.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\obj\Debug\ViewBagDemo.csproj.CoreCompileInputs.cache
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\obj\Debug\ViewBagD.2CA2F095.Up2Date
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\obj\Debug\ViewBagDemo.dll
+D:\2) Dot Net Developer IT job\Git demo\Dot_Net_Developer\ASP.NET MVC\ViewBagDemo\ViewBagDemo\ViewBagDemo\obj\Debug\ViewBagDemo.pdb
