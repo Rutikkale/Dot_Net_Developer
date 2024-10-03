@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\2) Dot Net Developer IT job\\Git demo\\Dot_Net_Developer\\ADO.NET\\CrudAppUsingADO\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4697158A-6399-4280-9E63-B1F7B181A2E2}|CrudAppUsingADO.csproj|d:\\2) dot net developer it job\\git demo\\dot_net_developer\\ado.net\\crudappusingado\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4697158A-6399-4280-9E63-B1F7B181A2E2}|CrudAppUsingADO.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4697158A-6399-4280-9E63-B1F7B181A2E2}|CrudAppUsingADO.csproj|D:\\2) Dot Net Developer IT job\\Git demo\\Dot_Net_Developer\\ADO.NET\\CrudAppUsingADO\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4697158A-6399-4280-9E63-B1F7B181A2E2}|CrudAppUsingADO.csproj|solutionrelative:views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4697158A-6399-4280-9E63-B1F7B181A2E2}|CrudAppUsingADO.csproj|d:\\2) dot net developer it job\\git demo\\dot_net_developer\\ado.net\\crudappusingado\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4697158A-6399-4280-9E63-B1F7B181A2E2}|CrudAppUsingADO.csproj|D:\\2) Dot Net Developer IT job\\Git demo\\Dot_Net_Developer\\ADO.NET\\CrudAppUsingADO\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4697158A-6399-4280-9E63-B1F7B181A2E2}|CrudAppUsingADO.csproj|solutionrelative:models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4697158A-6399-4280-9E63-B1F7B181A2E2}|CrudAppUsingADO.csproj|D:\\2) Dot Net Developer IT job\\Git demo\\Dot_Net_Developer\\ADO.NET\\CrudAppUsingADO\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4697158A-6399-4280-9E63-B1F7B181A2E2}|CrudAppUsingADO.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4697158A-6399-4280-9E63-B1F7B181A2E2}|CrudAppUsingADO.csproj|D:\\2) Dot Net Developer IT job\\Git demo\\Dot_Net_Developer\\ADO.NET\\CrudAppUsingADO\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4697158A-6399-4280-9E63-B1F7B181A2E2}|CrudAppUsingADO.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4697158A-6399-4280-9E63-B1F7B181A2E2}|CrudAppUsingADO.csproj|D:\\2) Dot Net Developer IT job\\Git demo\\Dot_Net_Developer\\ADO.NET\\CrudAppUsingADO\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -60,10 +60,11 @@
               "RelativeDocumentMoniker": "Views\\Home\\Create.cshtml",
               "ToolTip": "D:\\2) Dot Net Developer IT job\\Git demo\\Dot_Net_Developer\\ADO.NET\\CrudAppUsingADO\\Views\\Home\\Create.cshtml",
               "RelativeToolTip": "Views\\Home\\Create.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-05T10:51:18.514Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -71,13 +72,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\2) Dot Net Developer IT job\\Git demo\\Dot_Net_Developer\\ADO.NET\\CrudAppUsingADO\\Views\\Home\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Details.cshtml",
               "ToolTip": "D:\\2) Dot Net Developer IT job\\Git demo\\Dot_Net_Developer\\ADO.NET\\CrudAppUsingADO\\Views\\Home\\Details.cshtml",
               "RelativeToolTip": "Views\\Home\\Details.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-09T10:26:26.436Z",
               "EditorCaption": ""
@@ -104,23 +105,25 @@
               "RelativeToolTip": "Views\\Home\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-09T09:28:50.837Z"
+              "WhenOpened": "2024-05-09T09:28:50.837Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\2) Dot Net Developer IT job\\Git demo\\Dot_Net_Developer\\ADO.NET\\CrudAppUsingADO\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\2) Dot Net Developer IT job\\Git demo\\Dot_Net_Developer\\ADO.NET\\CrudAppUsingADO\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAAD8AAAAMAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAcwDIAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-05T05:31:36.473Z"
+              "WhenOpened": "2024-05-05T05:31:36.473Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\2) Dot Net Developer IT job\\Git demo\\Dot_Net_Developer\\ADO.NET\\CrudAppUsingADO\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -132,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "EmployeeDBContext.cs",
               "DocumentMoniker": "D:\\2) Dot Net Developer IT job\\Git demo\\Dot_Net_Developer\\ADO.NET\\CrudAppUsingADO\\Models\\EmployeeDBContext.cs",
               "RelativeDocumentMoniker": "Models\\EmployeeDBContext.cs",
@@ -140,8 +143,7 @@
               "RelativeToolTip": "Models\\EmployeeDBContext.cs",
               "ViewState": "AQIAAE0AAAAAAAAAAAAjwFAAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T17:24:01.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T17:24:01.324Z"
             },
             {
               "$type": "Document",
